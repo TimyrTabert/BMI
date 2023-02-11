@@ -1,7 +1,19 @@
 # BMI
 ![Screenshot](jir.png)
 ![Screenshot](drish.png)
+
+
+
+
+
+
+
+
+
+
+
    if(res<=19 &&age>=19 &&age<=24) tvNormal.setText("Нехватка веса. Норма: 19-24");
+   
         if(res>=24 &&age>=19 &&age<=24) tvNormal.setText("Ожирение. Норма: 19-24");
         if(res<=25 &&age>=25 &&age<=34) tvNormal.setText("Нехватка веса. Норма: 20-25");
         if(res>=34 &&age>=25 &&age<=34) tvNormal.setText("Ожирение. Норма: 20-25");

@@ -1,7 +1,7 @@
 # BMI
 ![Screenshot](jir.png)
 ![Screenshot](drish.png)
-
+![Screenshot](normal.png)
 
 
 
